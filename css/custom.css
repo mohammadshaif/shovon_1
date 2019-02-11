@@ -1,0 +1,26 @@
+/*---------------------------------------
+ *                                      *
+ *       Add Your Custom CSS Here       *
+ *                                      *
+ ---------------------------------------*/
+
+
+.pricing-features {
+    text-align: left;
+}
+
+.footer-address img {
+    margin: 0 0px 15px 0;
+}
+
+.footer-address {
+    text-align: right;
+}
+
+.payment {
+    width: 250px;
+}
+
+.message-area.boxed .container {
+    padding: 20px 60px;
+}
